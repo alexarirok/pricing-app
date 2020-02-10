@@ -1,0 +1,11 @@
+body {
+    padding: 30px;
+    background-color: aqua;
+}
+.text-giant { 
+    font-size: 40px;
+}
+
+.jumbothron {
+    text-align: center;
+}
